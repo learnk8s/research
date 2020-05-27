@@ -22,7 +22,7 @@ What you should expect next:
 
 If you spot a typo or an out-of-date spec, leave a comment on the spreadsheet or get in touch at [research@learnk8s.io](mailto:research@learnk8s.io).
 
-**Are you interested in adding more research?**
+**Are you interested in authoring open-source research?**
 
 If you wish to contribute with new comparison, charts, or any other research join the #research channel in [Slack](https://learnk8s.slack.com).
 
@@ -35,7 +35,7 @@ If you need some ideas, here's a shortlist:
 - How does [Alibaba's Container Service for Kubernetes](https://www.alibabacloud.com/product/kubernetes) compare with the rest of the [Kubernetes managed services](https://docs.google.com/spreadsheets/d/1RPpyDOLFmcgxMCpABDzrsBYWpPYCIBuvAoUQLwOGoQw)?
 - What's the average CPU workload for Kubernetes Pods? How does affect [instance types](https://docs.google.com/spreadsheets/d/1yhkuBJBY2iO2Ax5FcbDMdWD5QLTVO6Y_kYt_VumnEtI)?
 
-**Great, but I'm better at coding."**
+**What about code contributions?**
 
 More research can be unlocked if we can provision several clusters in different cloud providers and run tests.
 
